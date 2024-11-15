@@ -1,0 +1,15 @@
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\bin\Debug\net6.0\BookManagement.BL.deps.json
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\bin\Debug\net6.0\BookManagement.BL.dll
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\bin\Debug\net6.0\BookManagement.BL.pdb
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\bin\Debug\net6.0\BookManagement.DAL.dll
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\bin\Debug\net6.0\BookManagement.DAL.pdb
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\obj\Debug\net6.0\BookManagement.BL.csproj.AssemblyReference.cache
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\obj\Debug\net6.0\BookManagement.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\obj\Debug\net6.0\BookManagement.BL.AssemblyInfoInputs.cache
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\obj\Debug\net6.0\BookManagement.BL.AssemblyInfo.cs
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\obj\Debug\net6.0\BookManagement.BL.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\obj\Debug\net6.0\BookMana.3B166DD3.Up2Date
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\obj\Debug\net6.0\BookManagement.BL.dll
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\obj\Debug\net6.0\refint\BookManagement.BL.dll
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\obj\Debug\net6.0\BookManagement.BL.pdb
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.BL\obj\Debug\net6.0\ref\BookManagement.BL.dll

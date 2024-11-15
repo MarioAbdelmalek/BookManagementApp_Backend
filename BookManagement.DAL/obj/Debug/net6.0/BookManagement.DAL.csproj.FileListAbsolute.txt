@@ -1,0 +1,14 @@
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.DAL\bin\Debug\net6.0\BookManagement.DAL.deps.json
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.DAL\bin\Debug\net6.0\BookManagement.DAL.runtimeconfig.json
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.DAL\bin\Debug\net6.0\BookManagement.DAL.dll
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.DAL\bin\Debug\net6.0\BookManagement.DAL.pdb
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.DAL\obj\Debug\net6.0\BookManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.DAL\obj\Debug\net6.0\BookManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.DAL\obj\Debug\net6.0\BookManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.DAL\obj\Debug\net6.0\BookManagement.DAL.AssemblyInfo.cs
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.DAL\obj\Debug\net6.0\BookManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.DAL\obj\Debug\net6.0\BookManagement.DAL.dll
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.DAL\obj\Debug\net6.0\refint\BookManagement.DAL.dll
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.DAL\obj\Debug\net6.0\BookManagement.DAL.pdb
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.DAL\obj\Debug\net6.0\BookManagement.DAL.genruntimeconfig.cache
+C:\Users\mario\Desktop\BookManagementApp\BookManagement.DAL\obj\Debug\net6.0\ref\BookManagement.DAL.dll
